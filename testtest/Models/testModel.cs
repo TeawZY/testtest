@@ -2,6 +2,6 @@
 {
     public class testModel
     {
-        public
+        public int Id { get; set; }
     }
 }
